@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Judaism}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Abraham Isaac Kook}{3}{subsection.1.1}
+\contentsline {section}{\numberline {2}Christianity}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Thomas A. Kempis}{3}{subsection.2.1}
+\contentsline {section}{\numberline {3}Hinduism}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Kabir}{3}{subsection.3.1}
+\contentsline {section}{\numberline {4}Buddhism}{3}{section.4}
+\contentsline {subsection}{\numberline {4.1}Sutta Nipata}{3}{subsection.4.1}
+\contentsline {section}{\numberline {5}Surfism}{3}{section.5}
+\contentsline {subsection}{\numberline {5.1}Jal\={a}l ad-D\={i}n Muḥammad R\={u}m\={i} }{3}{subsection.5.1}
+\vspace {\beforebibskip }
+\contentsline {section}{References}{3}{subsection.5.1}
