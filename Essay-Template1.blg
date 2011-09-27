@@ -1,51 +1,46 @@
 This is BibTeX, Version 0.99d (TeX Live 2011)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Essay-Template1.aux
-White space in argument---line 21 of file Essay-Template1.aux
- : \citation{key
- :               here}
-I'm skipping whatever remains of this command
-The style file: plain.bst
+The style file: plainnat.bst
 Database file #1: cite.bib
 You've used 1 entry,
-            2118 wiz_defined-function locations,
-            502 strings with 4115 characters,
-and the built_in function-call counts, 226 in all, are:
-= -- 19
-> -- 7
-< -- 0
-+ -- 3
-- -- 2
-* -- 8
-:= -- 43
-add.period$ -- 3
+            2773 wiz_defined-function locations,
+            599 strings with 4940 characters,
+and the built_in function-call counts, 342 in all, are:
+= -- 26
+> -- 10
+< -- 1
++ -- 4
+- -- 3
+* -- 19
+:= -- 62
+add.period$ -- 4
 call.type$ -- 1
-change.case$ -- 4
-chr.to.int$ -- 0
-cite$ -- 1
-duplicate$ -- 7
-empty$ -- 23
-format.name$ -- 2
-if$ -- 46
-int.to.chr$ -- 0
+change.case$ -- 3
+chr.to.int$ -- 1
+cite$ -- 2
+duplicate$ -- 20
+empty$ -- 33
+format.name$ -- 4
+if$ -- 66
+int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 0
-newline$ -- 8
-num.names$ -- 2
-pop$ -- 9
+missing$ -- 2
+newline$ -- 14
+num.names$ -- 4
+pop$ -- 10
 preamble$ -- 1
 purify$ -- 3
 quote$ -- 0
-skip$ -- 7
+skip$ -- 13
 stack$ -- 0
-substring$ -- 5
+substring$ -- 2
 swap$ -- 1
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 4
+type$ -- 6
 warning$ -- 0
-while$ -- 2
-width$ -- 2
-write$ -- 12
-(There was 1 error message)
+while$ -- 3
+width$ -- 0
+write$ -- 22
