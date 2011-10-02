@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  27 SEP 2011 18:43
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  2 OCT 2011 16:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -961,26 +961,36 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 ) [1
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package microtype Info: Character `013' is missing
-(microtype)             in font `OT1/pplj/m/sc/10.95'.
-(microtype)             Ignoring protrusion settings for this character.
+<ss1.png, id=156, 407.5225pt x 482.80376pt>
+File: ss1.png Graphic file (type png)
+ <use ss1.png>
+Package pdftex.def Info: ss1.png used on input line 35.
+(pdftex.def)             Requested size: 285.2638pt x 337.96033pt.
 
-Overfull \hbox (3.56734pt too wide) in paragraph at lines 35--38
-[]\OT1/pplj/m/n/10.95 (-20) F O U R T H I N G S T H A T B R I N G M U C H I N -
-W A R D P E A C E[] 
- []
+<ss2.png, id=157, 420.57124pt x 353.32pt>
+File: ss2.png Graphic file (type png)
+ <use ss2.png>
+Package pdftex.def Info: ss2.png used on input line 36.
+(pdftex.def)             Requested size: 294.39786pt x 247.32231pt.
+ [2
 
-[2
-
-]
+ <./ss1.png> <./ss2.png>]
 LaTeX Font Info:    Font shape `OT1/pplj/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/pplj/b/n' tried instead on input line 56.
+(Font)              Font shape `OT1/pplj/b/n' tried instead on input line 46.
 Package microtype Info: Character `013' is missing
 (microtype)             in font `OT1/pplj/m/sc/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package tocbasic Info: character protrusion at toc deactivated on input line 61
+Package microtype Info: Character `013' is missing
+(microtype)             in font `OT1/pplj/m/sc/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package tocbasic Info: character protrusion at toc deactivated on input line 51
 .
  (./Essay-Template1.toc
+Overfull \hbox (7.99551pt too wide) in paragraph at lines 8--8
+ [][] [][]\OT1/pplj/m/n/10.95 (-20) Four Things That Bring Much In-ward Peace[]
+ []  
+ []
+
 Missing character: There is no á in font pplr9o!
 Missing character: There is no ¸ in font pplr9o!
 Missing character: There is no ¥ in font pplr9o!
@@ -992,13 +1002,10 @@ Missing character: There is no ¥ in font pplr9o!
 
 
 ]
-Missing character: There is no á in font pplr9o!
-Missing character: There is no ¸ in font pplr9o!
-Missing character: There is no ¥ in font pplr9o!
- [4]
 Missing character: There is no â in font pplr9o!
 Missing character: There is no € in font pplr9o!
 Missing character: There is no “ in font pplr9o!
+ [4] [5]
 Missing character: There is no á in font pplri9o!
 Missing character: There is no ¸ in font pplri9o!
 Missing character: There is no ¥ in font pplri9o!
@@ -1006,56 +1013,57 @@ Missing character: There is no ¥ in font pplri9o!
 
 Package hyperref Warning: Composite letter `\textasciimacron+a'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciimacron' on input line 100.
+(hyperref)                removing `\textasciimacron' on input line 135.
 
 
 Package hyperref Warning: Composite letter `\textasciimacron+i'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciimacron' on input line 100.
+(hyperref)                removing `\textasciimacron' on input line 135.
 
 
 Package hyperref Warning: Composite letter `\textasciimacron+u'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciimacron' on input line 100.
+(hyperref)                removing `\textasciimacron' on input line 135.
 
 
 Package hyperref Warning: Composite letter `\textasciimacron+i'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciimacron' on input line 100.
+(hyperref)                removing `\textasciimacron' on input line 135.
 
-Missing character: There is no á in font pplr9o!
-Missing character: There is no ¸ in font pplr9o!
-Missing character: There is no ¥ in font pplr9o!
-[5] [6] (./Essay-Template1.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 125.
- [7
+[6]
+Missing character: There is no â in font pplr9o!
+Missing character: There is no € in font pplr9o!
+Missing character: There is no ” in font pplr9o!
+ [7] [8] (./Essay-Template1.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 225.
+ [9
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 125.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 225.
  (./Essay-Template1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 125.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 125.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 225.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 225.
 Package rerunfilecheck Info: File `Essay-Template1.out' has not changed.
-(rerunfilecheck)             Checksum: BF1126D6E679D1722694312FBA438036;2072.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 125.
+(rerunfilecheck)             Checksum: DB7F8CB3135460CADE9CE20415910FF1;2156.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 225.
  ) 
 Here is how much of TeX's memory you used:
- 20883 strings out of 493633
- 401062 string characters out of 3143378
- 635716 words of memory out of 3000000
- 23556 multiletter control sequences out of 15000+200000
- 39602 words of font info for 182 fonts, out of 3000000 for 9000
+ 20935 strings out of 493633
+ 401534 string characters out of 3143378
+ 636742 words of memory out of 3000000
+ 23567 multiletter control sequences out of 15000+200000
+ 41408 words of font info for 210 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 65i,8n,73p,424b,358s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 65i,8n,73p,447b,404s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/te
 xlive/2011/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/20
 11/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2011/texm
 f-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Essay-Template1.pdf (7 pages, 73848 bytes).
+Output written on Essay-Template1.pdf (9 pages, 131201 bytes).
 PDF statistics:
- 279 PDF objects out of 1000 (max. 8388607)
- 247 compressed objects within 3 object streams
- 39 named destinations out of 1000 (max. 500000)
- 40293 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 271 PDF objects out of 1000 (max. 8388607)
+ 235 compressed objects within 3 object streams
+ 42 named destinations out of 1000 (max. 500000)
+ 40303 words of extra memory for PDF output out of 42996 (max. 10000000)
 

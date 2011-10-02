@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{2}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -10,5 +10,10 @@ Easwaran Eknath.
 \newblock \emph{God makes the rivers to flow}.
 \newblock Nilgiri Press, Tomales, Calif, 2009.
 \newblock ISBN 9781586380380.
+
+\bibitem[Seattle(2011)]{native}
+Chief Seattle.
+\newblock Prayer to the four directions, October 2011.
+\newblock URL \url{http://www.starstuffs.com/prayers/fourdirections.html}.
 
 \end{thebibliography}
